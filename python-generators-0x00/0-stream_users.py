@@ -1,3 +1,5 @@
+# Added generator function stream_users for streaming rows from user_data
+
 import mysql.connector
 
 def connect_to_prodev():
